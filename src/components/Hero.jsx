@@ -25,7 +25,7 @@ export default function Hero() {
               </div>
               <div>
                 <dt className="text-xs text-slate-500">Execution</dt>
-                <dd className="text-lg font-semibold text-slate-900">< 20 ms</dd>
+                <dd className="text-lg font-semibold text-slate-900">&lt; 20 ms</dd>
               </div>
               <div>
                 <dt className="text-xs text-slate-500">Pairs</dt>
